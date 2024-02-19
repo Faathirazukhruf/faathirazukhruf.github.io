@@ -1,0 +1,20 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: aquamarine;
+}
+
+#projects {
+  background-color: aquamarine;
+} 
+
+footer {
+  background-color:aquamarine;
+  padding: 20px;
+  text-align: center;
+  font-size: 14px;
+  color: #121010;
+} 
+
+section {
+  padding-top: 5rem; 
+}
